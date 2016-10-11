@@ -1,0 +1,22 @@
+{
+  "name": "wow-character-comparator",
+  "version": "0.1.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eddiemj89/wow-character-comparator.git"
+  },
+  "author": "Edward Martin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eddiemj89/wow-character-comparator/issues"
+  },
+  "homepage": "https://github.com/eddiemj89/wow-character-comparator#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
