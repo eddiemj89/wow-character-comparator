@@ -15,7 +15,7 @@ class Realms extends Component {
 
   componentDidMount() {
     axios
-        .get('http://localhost:8080/api/realms')
+        .get('/api/realms')
         .then(response => {
           console.log('result: ', response);
           this.setState({
