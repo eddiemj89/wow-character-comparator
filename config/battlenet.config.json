@@ -1,4 +1,5 @@
 {
+  "baseURL": "https://us.api.battle.net/wow/",
   "key": "k3bpv3fcdmqhrqfqfvtfavhrmkhh7zsy",
   "secret": "2tNBAHWA3EWH4ZRAQ4bdzARTb5ASgShF"
 }
