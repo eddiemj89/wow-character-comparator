@@ -4,7 +4,8 @@ const webpack = require('webpack');
 module.exports = {
   devtool: 'cheap-module-eval-source-map',
   entry: {
-    'story': ['./app/story/index.js']
+    'story': ['./app/story/index.js'],
+    'dashboard': ['./app/Dashboard/index.js']
   },
   output: {
     path: path.join(__dirname, 'public', 'dist'),
